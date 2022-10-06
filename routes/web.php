@@ -34,3 +34,7 @@ Route::get('/contact', function () {
 Route::get('/shop', function () {
     return view('shop');
 });
+
+Route::get('/shop-single', function () {
+    return view('shop-single');
+});

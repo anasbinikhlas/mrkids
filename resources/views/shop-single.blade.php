@@ -1,3 +1,6 @@
+        @extends("layouts.app")
+        @section("content")    
+    
     <!-- Open Content -->
     <section class="bg-light">
         <div class="container pb-5">
@@ -660,3 +663,5 @@
         </div>
     </section>
     <!-- End Article -->
+
+    @endSection

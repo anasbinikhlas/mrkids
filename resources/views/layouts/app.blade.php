@@ -251,7 +251,7 @@ https://templatemo.com/tm-559-zay-shop
     <script src="{{ asset("assets/js/custom.js")}}"></script>
     <!-- End Script -->
 
-    @yield("scriptJs")
+@yield("scriptJs")
 </body>
 
 </html>
