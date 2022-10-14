@@ -168,7 +168,7 @@ https://templatemo.com/tm-559-zay-shop
                     </ul>
                 </div>
 
-                <div class="col-md-4 pt-5">
+                {{-- <div class="col-md-4 pt-5">
                     <h2 class="h2 text-light border-bottom pb-3 border-light">Products</h2>
                     <ul class="list-unstyled text-light footer-link-list">
                         <li><a class="text-decoration-none" href="#">Luxury</a></li>
@@ -179,9 +179,9 @@ https://templatemo.com/tm-559-zay-shop
                         <li><a class="text-decoration-none" href="#">Gym Accessories</a></li>
                         <li><a class="text-decoration-none" href="#">Sport Shoes</a></li>
                     </ul>
-                </div>
+                </div> --}}
 
-                <div class="col-md-4 pt-5">
+                {{-- <div class="col-md-4 pt-5">
                     <h2 class="h2 text-light border-bottom pb-3 border-light">Further Info</h2>
                     <ul class="list-unstyled text-light footer-link-list">
                         <li><a class="text-decoration-none" href="#">Home</a></li>
@@ -190,7 +190,7 @@ https://templatemo.com/tm-559-zay-shop
                         <li><a class="text-decoration-none" href="#">FAQs</a></li>
                         <li><a class="text-decoration-none" href="#">Contact</a></li>
                     </ul>
-                </div>
+                </div> --}}
 
             </div>
 
@@ -208,14 +208,14 @@ https://templatemo.com/tm-559-zay-shop
                             <a class="text-light text-decoration-none" target="_blank"
                                 href="https://www.instagram.com/"><i class="fab fa-instagram fa-lg fa-fw"></i></a>
                         </li>
-                        <li class="list-inline-item border border-light rounded-circle text-center">
+                        {{-- <li class="list-inline-item border border-light rounded-circle text-center">
                             <a class="text-light text-decoration-none" target="_blank" href="https://twitter.com/"><i
                                     class="fab fa-twitter fa-lg fa-fw"></i></a>
-                        </li>
-                        <li class="list-inline-item border border-light rounded-circle text-center">
+                        </li> --}}
+                        {{-- <li class="list-inline-item border border-light rounded-circle text-center">
                             <a class="text-light text-decoration-none" target="_blank"
                                 href="https://www.linkedin.com/"><i class="fab fa-linkedin fa-lg fa-fw"></i></a>
-                        </li>
+                        </li> --}}
                     </ul>
                 </div>
                 <div class="col-auto">
@@ -234,9 +234,7 @@ https://templatemo.com/tm-559-zay-shop
                 <div class="row pt-2">
                     <div class="col-12">
                         <p class="text-left text-light">
-                            Copyright &copy; 2021 Company Name
-                            | Designed by <a rel="sponsored" href="https://templatemo.com"
-                                target="_blank">TemplateMo</a>
+                            Copyright &copy; 2022 Mrkids
                         </p>
                     </div>
                 </div>

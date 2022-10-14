@@ -191,7 +191,7 @@
     </section>
     <!-- Close Content -->
 
-    <!-- Start Article -->
+    {{-- <!-- Start Article -->
     <section class="py-5">
         <div class="container">
             <div class="row text-left p-2 pb-3">
@@ -662,6 +662,6 @@
 
         </div>
     </section>
-    <!-- End Article -->
+    <!-- End Article --> --}}
 
     @endSection
