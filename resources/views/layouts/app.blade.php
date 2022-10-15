@@ -61,9 +61,10 @@ https://templatemo.com/tm-559-zay-shop
     <nav class="navbar navbar-expand-lg navbar-light shadow">
         <div class="container d-flex justify-content-between align-items-center">
 
-            <a class="navbar-brand text-success logo h1 align-self-center" href="{{ url('/') }}">
-                Zay
+            <a class="navbar-brand text-success logo h3 align-self-center" >
+                MrKids
             </a>
+            <img src="assets/img/apple-icon.png" href="{{ url('/') }}">
 
             <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#templatemo_main_nav" aria-controls="navbarSupportedContent" aria-expanded="false"
