@@ -134,10 +134,10 @@
                             <img src="./assets/img/feature_prod_01.jpg" class="card-img-top" alt="...">
                         </a>
                         <div class="card-body">
-                            <ul class="list-unstyled d-flex justify-content-between">
+                            {{-- <ul class="list-unstyled d-flex justify-content-between">
 
                                 <li class="text-muted text-right">$240.00</li>
-                            </ul>
+                            </ul> --}}
                             <a href="shop-single.html" class="h2 text-decoration-none text-dark">Gym Weight</a>
                             <p class="card-text"><br/>
                                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt in culpa qui officia
@@ -152,9 +152,9 @@
                             <img src="./assets/img/feature_prod_02.jpg" class="card-img-top" alt="...">
                         </a>
                         <div class="card-body">
-                            <ul class="list-unstyled d-flex justify-content-between">
+                            {{-- <ul class="list-unstyled d-flex justify-content-between">
                                 <li class="text-muted text-right">$480.00</li>
-                            </ul>
+                            </ul> --}}
                             <a href="shop-single.html" class="h2 text-decoration-none text-dark">Cloud Nike Shoes</a>
                             <p class="card-text"><br/>
                                 Aenean gravida dignissim finibus. Nullam ipsum diam, posuere vitae pharetra sed, commodo
@@ -169,10 +169,10 @@
                             <img src="./assets/img/feature_prod_03.jpg" class="card-img-top" alt="...">
                         </a>
                         <div class="card-body">
-                            <ul class="list-unstyled d-flex justify-content-between">
+                            {{-- <ul class="list-unstyled d-flex justify-content-between">
 
                                 <li class="text-muted text-right">$360.00</li>
-                            </ul>
+                            </ul> --}}
                             <a href="shop-single.html" class="h2 text-decoration-none text-dark">Summer Addides
                                 Shoes</a>
                             <p class="card-text"><br/>

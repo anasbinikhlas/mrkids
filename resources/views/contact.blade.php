@@ -64,8 +64,12 @@
                         <input type="email" class="form-control mt-1" id="email" name="email" placeholder="Email">
                     </div>
                 </div>
-                <div class="mb-3">
-                    <label for="inputsubject">Subject</label>
+                    <div class="col-md-8 mb-3">
+                    <label for="inputsubject">Contact Number</label>
+                    <input type="text" class="form-control mt-1" id="contact" name="Contact Number" placeholder="Contact Number">
+                </div>
+                <div class="col-md-8 mb-3">
+                    <label for="inputcontact">Subject</label>
                     <input type="text" class="form-control mt-1" id="subject" name="subject" placeholder="Subject">
                 </div>
                 <div class="mb-3">
